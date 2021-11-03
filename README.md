@@ -4,7 +4,7 @@
 
 ## Структуры данных
 
-### Массивы
+### [Массивы](https://github.com/MaksimDzhangirov/algorithms-and-data-structures/blob/master/arrays.md)
 
 ### Списки
 
