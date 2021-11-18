@@ -50,7 +50,7 @@
   </font>
  </defs>
  <defs class="TextShapeIndex">
-  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14"/>
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18"/>
  </defs>
  <defs class="EmbeddedBulletChars">
   <g id="bullet-char-template-57356" transform="scale(0.00048828125,-0.00048828125)">
@@ -171,8 +171,32 @@
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id14">
-        <rect class="BoundingBox" stroke="none" fill="none" x="7247" y="1200" width="12554" height="3807"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7497" y="1901"><tspan fill="rgb(0,0,0)" stroke="none">Height(</tspan><tspan font-style="italic" fill="rgb(0,0,0)" stroke="none">r</tspan><tspan fill="rgb(0,0,0)" stroke="none">)</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="8747" y="2612"><tspan fill="rgb(0,0,0)" stroke="none">height &lt;- 1</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="8747" y="3323"><tspan fill="rgb(0,0,0)" stroke="none">for all children </tspan><tspan font-style="italic" fill="rgb(0,0,0)" stroke="none">c</tspan><tspan fill="rgb(0,0,0)" stroke="none"> of </tspan><tspan font-style="italic" fill="rgb(0,0,0)" stroke="none">r</tspan><tspan fill="rgb(0,0,0)" stroke="none">:</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7497" y="4034"><tspan fill="rgb(0,0,0)" stroke="none">       </tspan><tspan fill="rgb(0,0,0)" stroke="none">height &lt;- max(height, 1+height(</tspan><tspan font-style="italic" fill="rgb(0,0,0)" stroke="none">c</tspan><tspan fill="rgb(0,0,0)" stroke="none">))</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="8747" y="4745"><tspan fill="rgb(0,0,0)" stroke="none">return height</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="6815" y="1194" width="2968" height="963"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7065" y="1895"><tspan fill="rgb(0,0,0)" stroke="none">Height</tspan><tspan fill="rgb(0,0,0)" stroke="none">(</tspan><tspan font-style="italic" fill="rgb(0,0,0)" stroke="none">r</tspan><tspan fill="rgb(0,0,0)" stroke="none">)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.TextShape">
+       <g id="id15">
+        <rect class="BoundingBox" stroke="none" fill="none" x="7700" y="2127" width="3601" height="1674"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7950" y="2828"><tspan fill="rgb(0,0,0)" stroke="none">height &lt;- 1</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7950" y="3539"><tspan fill="rgb(0,0,0)" stroke="none">       </tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.TextShape">
+       <g id="id16">
+        <rect class="BoundingBox" stroke="none" fill="none" x="7700" y="2938" width="6301" height="963"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7950" y="3639"><tspan fill="rgb(0,0,0)" stroke="none">for all children </tspan><tspan font-style="italic" fill="rgb(0,0,0)" stroke="none">c</tspan><tspan fill="rgb(0,0,0)" stroke="none"> of </tspan><tspan font-style="italic" fill="rgb(0,0,0)" stroke="none">r</tspan><tspan fill="rgb(0,0,0)" stroke="none">:</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.TextShape">
+       <g id="id17">
+        <rect class="BoundingBox" stroke="none" fill="none" x="8647" y="3800" width="10054" height="1001"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="8897" y="4501"><tspan fill="rgb(0,0,0)" stroke="none">height &lt;- max(height, 1+height(</tspan><tspan font-style="italic" fill="rgb(0,0,0)" stroke="none">c</tspan><tspan fill="rgb(0,0,0)" stroke="none">))</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.TextShape">
+       <g id="id18">
+        <rect class="BoundingBox" stroke="none" fill="none" x="7697" y="4700" width="4104" height="964"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7947" y="5401"><tspan fill="rgb(0,0,0)" stroke="none">return height</tspan></tspan></tspan></text>
        </g>
       </g>
      </g>
