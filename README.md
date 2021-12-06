@@ -10,9 +10,9 @@
 
 ### [Стек](https://github.com/MaksimDzhangirov/algorithms-and-data-structures/blob/master/stack.md)
 
-### Очередь
+### [Очередь](https://github.com/MaksimDzhangirov/algorithms-and-data-structures/blob/master/queue.md)
 
-### Деревья
+### [Деревья](https://github.com/MaksimDzhangirov/algorithms-and-data-structures/blob/master/trees.md)
 
 ### Массивы переменного размера
 
