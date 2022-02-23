@@ -14,13 +14,13 @@
 
 ### [Деревья](https://github.com/MaksimDzhangirov/algorithms-and-data-structures/blob/master/trees.md)
 
-### Массивы переменного размера
+### [Массивы переменного размера](https://github.com/MaksimDzhangirov/algorithms-and-data-structures/blob/master/dynamic-arrays.md)
 
-### Метод потенциалов
+### [Метод потенциалов](https://github.com/MaksimDzhangirov/algorithms-and-data-structures/blob/master/potentials.md)
 
-### Очередь с приоритетом
+### [Очередь с приоритетом](https://github.com/MaksimDzhangirov/algorithms-and-data-structures/blob/master/queue-with-priority.md)
 
-### Двоичные кучи
+### [Двоичные кучи](https://github.com/MaksimDzhangirov/algorithms-and-data-structures/blob/master/heaps.md)
 
 ### Сортировка кучей
 
